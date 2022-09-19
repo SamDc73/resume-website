@@ -4,6 +4,6 @@ My personeal Website Updated Website
 
 TODOs:
 
-[] Add Certificates section
+[ ] Add Certificates section
 
-[] Add Blogs Section
+[ ] Add Blogs Section
