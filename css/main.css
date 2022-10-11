@@ -55,7 +55,7 @@ html {
 
 /* Hero (intro) section */
 /* .intro-title { */
-  /* font-weight: 800; */
+/* font-weight: 800; */
 /* } */
 
 @-webkit-keyframes animateWave {
@@ -79,16 +79,16 @@ html {
 }
 
 /* .wave-bg { */
-  /* display: block; */
-  /* height: 220px; */
-  /* width: 100%; */
-  /* min-width: 600px; */
-  /* transform-origin: top; */
-  /* -webkit-animation: animateWave 2000ms cubic-bezier(0.23, 1, 0.32, 1) forwards; */
-  /* animation: animateWave 2000ms cubic-bezier(0.23, 1, 0.32, 1) forwards; */
-  /* background-image: url("../images/wave-bg.svg"); */
-  /* background-position: center; */
-  /* background-repeat: no-repeat; */
+/* display: block; */
+/* height: 220px; */
+/* width: 100%; */
+/* min-width: 600px; */
+/* transform-origin: top; */
+/* -webkit-animation: animateWave 2000ms cubic-bezier(0.23, 1, 0.32, 1) forwards; */
+/* animation: animateWave 2000ms cubic-bezier(0.23, 1, 0.32, 1) forwards; */
+/* background-image: url("../images/wave-bg.svg"); */
+/* background-position: center; */
+/* background-repeat: no-repeat; */
 /* } */
 
 
@@ -110,7 +110,7 @@ html {
 }
 
 .plus-image {
-  left:24%;
+  left: 24%;
   position: absolute;
   margin-top: -25px;
   margin-left: -25px;
@@ -318,7 +318,7 @@ footer a:not(.nav-link) {
 }
 
 /* .skills-box:hover .skills-img { */
-  /* transform: translateX(-20px); */
+/* transform: translateX(-20px); */
 /* } */
 
 .skills-title {
@@ -343,7 +343,7 @@ footer a:not(.nav-link) {
 }
 
 .skills-icons {
-  margin: 0rem ;
+  margin: 0rem;
   width: 100%;
   display: block;
 }
@@ -384,12 +384,12 @@ footer a:not(.nav-link) {
 }
 
 .zoom:hover {
-transform: scale(2);
+  transform: scale(2);
 }
 
 
 /** Name HOver */
-h1::before {  
+h1::before {
   transform: scaleX(0);
   transform-origin: bottom right;
 }
@@ -403,9 +403,12 @@ h1:hover::before {
   content: " ";
   display: block;
   position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   inset: 0 0 0 0;
-  background: #4D9DE0 ;
+  background: #4D9DE0;
   z-index: -1;
   transition: transform .3s ease;
 }
@@ -478,7 +481,7 @@ h1:hover::before {
 /** Typed Text END */
 
 /* My Name Hover Effect*/
-.name-hover::before {  
+.name-hover::before {
   transform: scaleX(0);
   transform-origin: bottom right;
 }
@@ -492,12 +495,15 @@ h1:hover::before {
   content: " ";
   display: block;
   position: absolute;
-  top: 0; right: 0; bottom: 0; left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   inset: 0 0 0 0;
   background: #4D9DE0;
   z-index: -1;
   transition: transform .3s ease;
-  width: 65% ;
+  width: 65%;
 }
 
 .name-hover {

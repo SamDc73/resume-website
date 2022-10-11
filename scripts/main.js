@@ -90,6 +90,8 @@
 
   // Add your javascript here
   // Typing effect 
+
+
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
