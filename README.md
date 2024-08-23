@@ -1,9 +1,10 @@
 # resume-website
-My personeal Website Updated Website
+My Old personeal Website
+
+RIP 
+
+check out my new one: [samdc73.com](https://samdc73.com/) 
 
 
-TODOs:
+![Webstie Image](image.png)
 
-[ ] Add Certificates section
-
-[ ] Add Blogs Section
